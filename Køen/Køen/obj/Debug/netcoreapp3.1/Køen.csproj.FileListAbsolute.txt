@@ -1,0 +1,13 @@
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\bin\Debug\netcoreapp3.1\Køen.exe
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\bin\Debug\netcoreapp3.1\Køen.deps.json
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\bin\Debug\netcoreapp3.1\Køen.runtimeconfig.json
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\bin\Debug\netcoreapp3.1\Køen.runtimeconfig.dev.json
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\bin\Debug\netcoreapp3.1\Køen.dll
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\bin\Debug\netcoreapp3.1\Køen.pdb
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\obj\Debug\netcoreapp3.1\Køen.csprojAssemblyReference.cache
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\obj\Debug\netcoreapp3.1\Køen.AssemblyInfoInputs.cache
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\obj\Debug\netcoreapp3.1\Køen.AssemblyInfo.cs
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\obj\Debug\netcoreapp3.1\Køen.csproj.CoreCompileInputs.cache
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\obj\Debug\netcoreapp3.1\Køen.dll
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\obj\Debug\netcoreapp3.1\Køen.pdb
+C:\Users\patr7775\Desktop\Hovedeforløb 1\Køen\Køen\obj\Debug\netcoreapp3.1\Køen.genruntimeconfig.cache
